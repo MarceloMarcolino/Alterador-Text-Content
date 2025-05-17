@@ -1,1 +1,3 @@
 Tenha um elemento HTML na página (por exemplo, um parágrafo) e utilize JavaScript para modificar seu conteúdo usando a propriedade textContent.
+
+Faça a soma de duas variáveis numéricas e apresente no console com uma mensagem amigável em Template String.
